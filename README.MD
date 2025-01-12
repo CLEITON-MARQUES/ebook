@@ -38,9 +38,9 @@ seguem abaixo.
 
 Microsoft Copilot：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de teoria musical, o ebookk é do nicho de teclado, o título deve ser épico e curto, me liste 5 variações de títulos                                                        |
+|   Ação   | prompt                                                                                                                                                                                                                                                                                                                                                                                                      |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Crie um título de um ebook sobre o tema de teoria musical, o ebookk é do nicho de teclado, o título deve ser épico e curto, me liste 5 variações de títulos                    |
 | conteúdo | Faça um texto para ebook , com foco em teoria musical, listando os principais conceitos com exemplos {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
@@ -71,14 +71,11 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/account"
+      src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCleiton Marques<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-
-     <a href="https://github.com/CLEITON-MARQUES">
+    <a href="https://github.com/CLEITON-MARQUES">
     GitHub</a>&nbsp;|&nbsp;
     &nbsp;|&nbsp;
     <a href="https://www.instagram.com/clei.ton_marques/">
