@@ -75,7 +75,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspCleiton Marques<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/CLEITON-MARQUES">
     GitHub</a>&nbsp;|&nbsp;
     &nbsp;|&nbsp;
     <a href="https://www.instagram.com/clei.ton_marques/">
@@ -87,4 +87,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Cleiton Marques](https://github.com/felipeAguiarCode)
