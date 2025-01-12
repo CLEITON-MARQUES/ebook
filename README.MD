@@ -67,11 +67,18 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/account"
     />
-    <p>&nbsp&nbsp&nbspCleiton Marques<br>
+    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/CLEITON-MARQUES">
+    <a href="https://github.com/felipeAguiarCode">
+    GitHub</a>&nbsp;|&nbsp;
+
+     <a href="https://github.com/CLEITON-MARQUES">
     GitHub</a>&nbsp;|&nbsp;
     &nbsp;|&nbsp;
     <a href="https://www.instagram.com/clei.ton_marques/">
